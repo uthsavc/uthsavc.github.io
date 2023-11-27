@@ -16,9 +16,9 @@ layout: home
 
 ![right-aligned-image](headshot5.png){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-I am a final-year PhD student in Computer Science at [Princeton University](https://www.cs.princeton.edu). I am very fortunate to be advised by [Ben Raphael](http://compbio.cs.brown.edu). I was generously supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards).    
+I am a final-year PhD student in Computer Science at [Princeton University](https://www.cs.princeton.edu). I am very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/). I was generously supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards).    
 
-I am broadly interested in developing statistical models and algorithms to address problems in biology and machine learning. My current work is on inferring network interactions (epistasis, somatic mutations in cancer) and modeling spatial structure in 'omics data.    
+I am broadly interested in developing statistical models and algorithms to address problems in biology and machine learning. My current focuses on epistasis and modeling spatial structure in 'omics data.    
      
 [[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](cv_website.pdf), [Github](https://github.com/uthsavc)]
 
