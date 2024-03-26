@@ -16,25 +16,33 @@ layout: home
 
 ![right-aligned-image](headshot5.png){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-I am a final-year PhD student in Computer Science at [Princeton University](https://www.cs.princeton.edu). I am very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/). I was generously supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards).    
+I recently completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu), where I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/) 
+and generously supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). 
+In the summer, I will join the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the Broad Institute as a postdoctoral fellow.    
 
-I am broadly interested in developing statistical models and algorithms to address problems in biology and machine learning. My current work is on developing models for network interactions (epistasis) and spatial structure in biological data.    
+I am broadly interested in developing statistical models and algorithms to address problems in biology and machine learning, with a particular interest in problems involving networks or spatial interactions.    
      
-[[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](cv_website.pdf), [Github](https://github.com/uthsavc)]
+<!-- [[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](cv_website.pdf), [Github](https://github.com/uthsavc)] -->
 
-<!-- Here is [my CV](chitra_cv_spring_2020.pdf) and [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao). -->
+Here is [my CV](cv_website.pdf) and [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao).
 </div>
 <!-- &nbsp; -->
 
 ## Recent Updates
 
+- (March 2024) Two papers accepted to ISMB 2024 and RECOMB-CCB 2024, respectively. Pre-prints coming soon!
+
+- (March 2024) I defended my PhD thesis! Next up: I will join the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the Broad Institute as a postdoctoral fellow.
+
+- (December 2023) GASTON was accepted to RECOMB 2024, and I will present it in Boston in May.
+
 - Posters/talks on Belayer and GASTON at: NCI Spring School (April 2023), NCI Junior Investigator Meeting (August 2023), Rutgers-Princeton cancer symposium (October 2023), CSHL Single-Cell Analyses meeting (November 2023).
 
 - (November 2023) Just released our new algorithm GASTON, which uses deep learning to derive a topographic map of spatial gene expression. Check out the [pre-print](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1) and [code](https://github.com/raphael-group/GASTON)!
 
-- (October 2022) Our spatial transcriptomics algorithm Belayer is out now (and is the issue's "featured article") in [Cell Systems](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00354-4)!
+<!-- - (October 2022) Our spatial transcriptomics algorithm Belayer is out now (and is the issue's "featured article") in [Cell Systems](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00354-4)! -->
 
-- (September 2022) Received a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards).
+<!-- - (September 2022) Received a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). -->
 
 <!-- - (June 2022) Presented at the [SIAM Conference on Discrete Mathematics](https://www.siam.org/conferences/cm/conference/dm22) (DM22) in Pittsburgh. Also received an ICML 2022 [Best Reviewer Award](https://icml.cc/Conferences/2022/Reviewers).
 
@@ -52,11 +60,19 @@ I am broadly interested in developing statistical models and algorithms to addre
 
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Cong Ma, Sereno Lopez-Darwin, Kohei Sanno, Benjamin J. Raphael   
-*In review.*
+*Accepted to RECOMB 2024.*
 
 [<span style="color:#c869bf">Slaying the chimera: a unified model of higher-order epistasis</span>](https://uthsavc.github.io/)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
 *In review.*
+
+[<span style="color:#c869bf">A count-based model for delineating cell-cell interactions in spatial transcriptomics data.</span>](https://uthsavc.github.io/)     
+Hirak Sarkar\*, **Uthsav Chitra\***, Julian Gold, Benjamin J. Raphael   
+*Accepted to ISMB 2024.*
+
+[<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://uthsavc.github.io/)     
+Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael   
+*Accepted to RECOMB-CCB 2024.*
 
 [<span style="color:#c869bf">Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics</span>](https://www.biorxiv.org/content/10.1101/2022.02.05.479261v1)     
 Cong Ma\*, **Uthsav Chitra\***, Shirley Zhang, Benjamin J. Raphael   
@@ -96,4 +112,4 @@ Manuscript, 2019
 
 ## Personal
 
-I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/), struggle on crosswords and puzzles, and make bad puns.
+I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/), attempt to do crosswords, and make bad puns.
