@@ -31,6 +31,8 @@ Here is [my CV](cv_website.pdf) and [Google Scholar](https://scholar.google.com/
 
 ## Recent Updates
 
+- (July 2024) New pre-print on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1).
+
 - (July 2024) Started my postdoc at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/)!
 
 - (June 2024) [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1) was accepted in principle to _Nature Methods_.
@@ -60,7 +62,7 @@ Here is [my CV](cv_website.pdf) and [Google Scholar](https://scholar.google.com/
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Cong Ma, Sereno Lopez-Darwin, Kohei Sanno, Benjamin J. Raphael   
 *Nature Methods*, accepted in principle. Previously appeared at *RECOMB 2024* [[slides](gaston_recomb2024_pres.pdf)].
 
-[<span style="color:#c869bf">Slaying the chimera: a unified model of higher-order epistasis</span>](https://uthsavc.github.io/)     
+[<span style="color:#c869bf">Slaying the chimera: a unified model of higher-order epistasis</span>](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
 *In review.*
 
