@@ -66,7 +66,7 @@ In submission.
 
 [<span style="color:#c869bf">Quantifying higher-order epistasis: beware the chimera.</span>](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
-*In review.*
+*Nature Communications*, in press.
 
 [<span style="color:#c869bf">A count-based model for delineating cell-cell interactions in spatial transcriptomics data.</span>](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859)     
 Hirak Sarkar\*, **Uthsav Chitra\***, Julian Gold, Benjamin J. Raphael   
