@@ -25,17 +25,17 @@ I am broadly interested in developing statistical and machine learning methods t
      
 <!-- [[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](cv_website.pdf), [Github](https://github.com/uthsavc)] -->
 
-Here is [my CV](cv_website.pdf) and [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao).
+Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), and my [research statement](CS_statement_5_no_future_work.pdf) (minus the "future work" section).
 </div>
 <!-- &nbsp; -->
 
 ## Recent Updates
 
-- (September 2024) Selected as a [Rising Star in Data Science](https://datascience.ucsd.edu/rising-stars-in-data-science/) and will attend the workshop at UC San Diego in November.
+- (January 2025) [GASTON](https://www.nature.com/articles/s41592-024-02503-3), an interpretable deep learning model for learning spatial gradients from sparse spatial gene expression data, was published in _Nature Methods_.
+
+- (November 2024) Selected as a [Rising Star in Data Science](https://datascience.ucsd.edu/rising-stars-in-data-science/) and attended the workshop at UC San Diego.
 
 - (July 2024) New pre-print on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1).
-
-- (June 2024) [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1), our deep learning model for learning spatial gradients from sparse spatial transcriptomics data, was accepted to _Nature Methods_.
 
 - (May 2024) [DIALECT](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1), our method to identify mutually exclusive driver mutations that accounts for passenger mutations, was accepted to and won the **Best Paper Award** at *RECOMB-CCB 2024*.
 
@@ -60,9 +60,9 @@ Here is [my CV](cv_website.pdf) and [Google Scholar](https://scholar.google.com/
 **Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
 In submission.
 
-[<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1)     
-**Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Cong Ma, Sereno Lopez-Darwin, Kohei Sanno, Benjamin J. Raphael   
-*Nature Methods*, in press. Previously appeared at *RECOMB 2024* [[slides](presentations/gaston_recomb2024_pres.pdf)].
+[<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
+**Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
+*Nature Methods* (2025). Accepted to *RECOMB 2024* [[slides](presentations/gaston_recomb2024_pres.pdf)].
 
 [<span style="color:#c869bf">Quantifying higher-order epistasis: beware the chimera.</span>](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
@@ -113,4 +113,4 @@ Manuscript, 2019.
 
 ## Personal
 
-I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/), attempt to do crosswords, and make bad puns.
+I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/) and (attempt to) do [<span style="color:#c869bf">crosswords</span>](https://downforacross.com/).
