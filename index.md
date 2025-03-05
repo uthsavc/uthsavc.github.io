@@ -14,68 +14,72 @@ layout: home
 .spaced-lines {line-height: 20pt;} 
 </style>
 
-![right-aligned-image](headshot5.png){: .image-left width="315px"}
+<div class="image-icon-wrapper">
+    <img src="images/headshot5.png" alt="headshot" class="image-left" width="250px" style="border: 0px solid black;">
+
+    <div class="icon-container">
+        <a href="https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao" target="_blank">
+            <i class="ai ai-google-scholar ai-2x"></i>
+        </a>
+        <a href="mailto:uchitra@broadinstitute.org" target="_blank">
+            <i class="fa-solid fa-envelope fa-2x"></i>
+        </a>
+        <a href="https://orcid.org/0000-0001-6016-0960" target="_blank">
+            <i class="ai ai-orcid ai-2x"></i>
+        </a>
+        <a href="https://github.com/uthsavc" target="_blank">
+            <i class="fab fa-github-square fa-2x"></i>
+        </a>
+        <a href="https://x.com/uthsavc" target="_blank">
+            <i class="fab fa-twitter-square fa-2x"></i>
+        </a>
+    </div>
+</div>
+
 <div markdown="1" class="spaced-lines">
-I am a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute](https://www.broadinstitute.org/).
-I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu), where I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/) 
-and generously supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). 
+
+
+I am a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
+
+
+I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu). I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/) 
+and supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). 
     
 
-I am broadly interested in developing statistical and machine learning methods to address problems in biology, with a particular interest in problems involving spatial or network structure.    
-     
-<!-- [[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](cv_website.pdf), [Github](https://github.com/uthsavc)] -->
+I am broadly interested in developing statistical and machine learning methods to address fundamental problems in biology, with a particular focus on problems involving graphs or spatial structure.    
+    
 
-Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), and my [research statement](CS_statement_5_no_future_work.pdf) (minus the "future work" section).
+Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), and my [research statement](CS_statement_5_no_future_work.pdf) (minus the "future work" section). 
 </div>
 <!-- &nbsp; -->
 
 ## Recent Updates
 
+- (February 2025) Our paper on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1) was published in _Nature Communications_.
+
 - (January 2025) [GASTON](https://www.nature.com/articles/s41592-024-02503-3), an interpretable deep learning model for learning spatial gradients from sparse spatial gene expression data, was published in _Nature Methods_.
 
 - (November 2024) Selected as a [Rising Star in Data Science](https://datascience.ucsd.edu/rising-stars-in-data-science/) and attended the workshop at UC San Diego.
-
-- (July 2024) New pre-print on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1).
 
 - (May 2024) [DIALECT](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1), our method to identify mutually exclusive driver mutations that accounts for passenger mutations, was accepted to and won the **Best Paper Award** at *RECOMB-CCB 2024*.
 
 - (March 2024) [Copulacci](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859), our method for learning cell-cell interactions from sparse spatial transcriptomics data, was accepted to *ISMB 2024*.
 
-- (March 2024) I defended my PhD thesis! Slides available [here](presentations/FPO_actual.pdf). Next up: I will join the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the Broad Institute as a postdoctoral fellow.
 
-<!-- - (December 2023) GASTON was accepted to RECOMB 2024, and I will present it in Boston in May.
-
-- Posters/talks on Belayer and GASTON at: NCI Spring School (April 2023), NCI Junior Investigator Meeting (August 2023), Rutgers-Princeton cancer symposium (October 2023), CSHL Single-Cell Analyses meeting (November 2023).
-
-- (November 2023) Just released our new algorithm GASTON, which uses deep learning to derive a topographic map of spatial gene expression. Check out the [pre-print](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1) and [code](https://github.com/raphael-group/GASTON)! -->
-
----    
-<!-- &nbsp; -->
 
 ## Papers
-
-<sup>\* denotes joint first authorship.</sup>     
-
-[<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://uthsavc.github.io/)     
-**Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
-In submission.
 
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
 *Nature Methods* (2025). Accepted to *RECOMB 2024* [[slides](presentations/gaston_recomb2024_pres.pdf)].
 
-[<span style="color:#c869bf">Quantifying higher-order epistasis: beware the chimera.</span>](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1)     
+[<span style="color:#c869bf">Resolving discrepancies between chimeric and multiplicative measures of higher-order epistasis.</span>](https://www.nature.com/articles/s41467-025-56986-5)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
-*Nature Communications*, in press.
+*Nature Communications* (2025).    
 
 [<span style="color:#c869bf">A count-based model for delineating cell-cell interactions in spatial transcriptomics data.</span>](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859)     
 Hirak Sarkar\*, **Uthsav Chitra\***, Julian Gold, Benjamin J. Raphael   
 *Bioinformatics* (2024). Accepted to *ISMB 2024*.
-
-[<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://uthsavc.github.io/)     
-Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael   
-RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*).    
-<ins>***Best Paper Award***.</ins>
 
 [<span style="color:#c869bf">Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics.</span>](https://www.biorxiv.org/content/10.1101/2022.02.05.479261v1)     
 Cong Ma\*, **Uthsav Chitra\***, Shirley Zhang, Benjamin J. Raphael   
@@ -102,9 +106,21 @@ Preliminary version presented at KDD WISDOM 2019 workshop [[slides](presentation
 **Uthsav Chitra**, Benjamin J. Raphael  
 International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)].
 
+## Pre-prints
+
+<sup>\* denotes joint first authorship.</sup>     
+
+[<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1)     
+**Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
+
+[<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1)     
+Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael       
+RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*), <ins>***Best Paper Award***</ins>.   
+
 [<span style="color:#c869bf">Committee Selection is More Similar Than You Think: Evidence from Avalanche and Stellar.</span>](https://arxiv.org/abs/1904.09839)     
 Tarun Chitra, **Uthsav Chitra**  
 Manuscript, 2019.
+
 
 &nbsp;
 
@@ -113,4 +129,4 @@ Manuscript, 2019.
 
 ## Personal
 
-I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/) and (attempt to) do [<span style="color:#c869bf">crosswords</span>](https://downforacross.com/).
+I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/) in my free time.
