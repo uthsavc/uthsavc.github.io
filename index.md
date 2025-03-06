@@ -121,8 +121,7 @@ Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael
 RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*), <ins>***Best Paper Award***</ins>.   
 
 [<span style="color:#c869bf">Committee Selection is More Similar Than You Think: Evidence from Avalanche and Stellar.</span>](https://arxiv.org/abs/1904.09839)     
-Tarun Chitra, **Uthsav Chitra**  
-Manuscript, 2019.
+Tarun Chitra, **Uthsav Chitra**    
 
 
 &nbsp;
