@@ -24,14 +24,17 @@ layout: home
         <a href="mailto:uchitra@broadinstitute.org" target="_blank">
             <i class="fa-solid fa-envelope fa-2x"></i>
         </a>
-        <a href="https://orcid.org/0000-0001-6016-0960" target="_blank">
-            <i class="ai ai-orcid ai-2x"></i>
+        <a href="cv_website.pdf" target="_blank">
+            <i class="ai ai-cv ai-2x"></i>
         </a>
         <a href="https://github.com/uthsavc" target="_blank">
             <i class="fab fa-github-square fa-2x"></i>
         </a>
         <a href="https://x.com/uthsavc" target="_blank">
             <i class="fab fa-twitter-square fa-2x"></i>
+        </a>
+        <a href="https://orcid.org/0000-0001-6016-0960" target="_blank">
+            <i class="ai ai-orcid ai-2x"></i>
         </a>
     </div>
 </div>
