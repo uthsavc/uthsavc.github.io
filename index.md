@@ -72,6 +72,8 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 
 ## Papers
 
+<sup>\* denotes joint first authorship.</sup>
+
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
 *Nature Methods* (2025). Accepted to *RECOMB 2024* [[slides](presentations/gaston_recomb2024_pres.pdf)].
@@ -109,9 +111,7 @@ Preliminary version presented at KDD WISDOM 2019 workshop [[slides](presentation
 **Uthsav Chitra**, Benjamin J. Raphael  
 International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)].
 
-## Preprints
-
-<sup>\* denotes joint first authorship.</sup>     
+## Preprints     
 
 [<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1)     
 **Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
