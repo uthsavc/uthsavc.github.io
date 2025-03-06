@@ -109,7 +109,7 @@ Preliminary version presented at KDD WISDOM 2019 workshop [[slides](presentation
 **Uthsav Chitra**, Benjamin J. Raphael  
 International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)].
 
-## Pre-prints
+## Preprints
 
 <sup>\* denotes joint first authorship.</sup>     
 
