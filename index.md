@@ -21,9 +21,6 @@ layout: home
         <a href="https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao" target="_blank">
             <i class="ai ai-google-scholar ai-2x"></i>
         </a>
-        <a href="mailto:uchitra@broadinstitute.org" target="_blank">
-            <i class="fa-solid fa-envelope fa-2x"></i>
-        </a>
         <a href="cv_website.pdf" target="_blank">
             <i class="ai ai-cv ai-2x"></i>
         </a>
@@ -35,6 +32,9 @@ layout: home
         </a>
         <a href="https://orcid.org/0000-0001-6016-0960" target="_blank">
             <i class="ai ai-orcid ai-2x"></i>
+        </a>
+        <a href="mailto:uchitra@broadinstitute.org" target="_blank">
+            <i class="fa-solid fa-envelope fa-2x"></i>
         </a>
     </div>
 </div>
