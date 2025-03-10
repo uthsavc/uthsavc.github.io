@@ -58,6 +58,8 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 
 ## Recent Updates
 
+- (March 2025) GLACIER, a method for spatial Granger causality (with Prannav Shankar, Huan Liang, Rohit Singh) was accepted to _RECOMB-seq 2025_. Pre-print coming soon!
+
 - (February 2025) Our paper on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1) was published in _Nature Communications_.
 
 - (January 2025) [GASTON](https://www.nature.com/articles/s41592-024-02503-3), an interpretable deep learning model for learning spatial gradients from sparse spatial gene expression data, was published in _Nature Methods_.
@@ -72,7 +74,20 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 
 ## Papers
 
-<sup>\* denotes joint first authorship.</sup>
+<sup>\* denotes joint first authorship     
+† denotes joint last (senior) authorship</sup>
+
+[<span style="color:#c869bf">Decoding the causal drivers of spatial cellular topology.</span>](https://uthsavc.github.io/)     
+Prannav Shankar, Huan Liang, **Uthsav Chitra†**, Rohit Singh†.    
+RECOMB Satellite Conference on Biological Sequence Analysis (*RECOMB-seq 2025*).
+
+[<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1)     
+**Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
+In submission.    
+
+[<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1)     
+Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael       
+RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*), <ins>***Best Paper Award***</ins>.  
 
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
@@ -100,7 +115,7 @@ International Conference on Machine Learning (*ICML 2021*) [[slides](presentatio
 
 [<span style="color:#c869bf">NetMix: A network-structured mixture model for reducing bias in the identification of altered subnetworks.</span>](https://www.biorxiv.org/content/10.1101/2020.01.18.911438v1)    
 Matthew A. Reyna\*, **Uthsav Chitra\***, Rebecca Elyanow, Benjamin J. Raphael   
-Journal of Computational Biology (2021). Accepted to *RECOMB 2020* [[slides](presentations/recomb2020_pres.pdf)].    
+*Journal of Computational Biology* (2021). Accepted to *RECOMB 2020* [[slides](presentations/recomb2020_pres.pdf)].    
 
 [<span style="color:#c869bf">Analyzing the Impact of Filter Bubbles on Social Network Polarization.</span>](https://arxiv.org/abs/1906.08772)    
 **Uthsav Chitra**, Christopher Musco    
@@ -109,19 +124,11 @@ Preliminary version presented at KDD WISDOM 2019 workshop [[slides](presentation
 
 [<span style="color:#c869bf">Random Walks on Hypergraphs with Edge-Dependent Vertex Weights.</span>](https://arxiv.org/abs/1905.08287)          
 **Uthsav Chitra**, Benjamin J. Raphael  
-International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)].
-
-## Preprints     
-
-[<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1)     
-**Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
-
-[<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1)     
-Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael       
-RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*), <ins>***Best Paper Award***</ins>.   
+International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)]. 
 
 [<span style="color:#c869bf">Committee Selection is More Similar Than You Think: Evidence from Avalanche and Stellar.</span>](https://arxiv.org/abs/1904.09839)     
 Tarun Chitra, **Uthsav Chitra**    
+Manuscript, 2019.    
 
 
 &nbsp;
