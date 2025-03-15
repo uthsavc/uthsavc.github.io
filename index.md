@@ -58,6 +58,8 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 
 ## Recent Updates
 
+- (March 2025) Two papers (GASTON-Mix, and SARDINE by Gary Hu) accepted to ISMB 2025.
+
 - (March 2025) GLACIER, a method for spatial Granger causality (with Prannav Shankar, Huan Liang, Rohit Singh) was accepted to _RECOMB-seq 2025_. Pre-print coming soon!
 
 - (February 2025) Our paper on [measuring higher-order epistasis](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1) was published in _Nature Communications_.
@@ -68,7 +70,7 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 
 - (May 2024) [DIALECT](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1), our method to identify mutually exclusive driver mutations that accounts for passenger mutations, was accepted to and won the **Best Paper Award** at *RECOMB-CCB 2024*.
 
-- (March 2024) [Copulacci](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859), our method for learning cell-cell interactions from sparse spatial transcriptomics data, was accepted to *ISMB 2024*.
+<!-- - (March 2024) [Copulacci](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859), our method for learning cell-cell interactions from sparse spatial transcriptomics data, was accepted to *ISMB 2024*. -->
 
 
 
@@ -77,17 +79,26 @@ Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/cit
 <sup>\* denotes joint first authorship     
 † denotes joint last (senior) authorship</sup>
 
+[<span style="color:#c869bf">Spatial metabolic gradients in the liver and small intestine.</span>](https://uthsavc.github.io/)    
+Laith Samarah, Clover Zheng, ..., **Uthsav Chitra**, ...,  Benjamin J. Raphael, Joshua Rabinowitz.    
+In review.
+
 [<span style="color:#c869bf">Decoding the causal drivers of spatial cellular topology.</span>](https://uthsavc.github.io/)     
 Prannav Shankar, Huan Liang, **Uthsav Chitra†**, Rohit Singh†.    
 RECOMB Satellite Conference on Biological Sequence Analysis (*RECOMB-seq 2025*).
 
+[<span style="color:#c869bf">Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison.</span>](https://uthsavc.github.io/)     
+Gary Hu, Julian Gold, **Uthsav Chitra**, Sunay Joshi, Benjamin J. Raphael.    
+Accepted to *ISMB 2025*.
+
 [<span style="color:#c869bf">GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts.</span>](https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1)     
 **Uthsav Chitra**, Shu Dan, Fenna Krienen, Benjamin J. Raphael   
-In submission.    
+Accepted to *ISMB 2025*.    
 
 [<span style="color:#c869bf">A latent variable model for evaluating mutual exclusivity between driver mutations in cancer.</span>](https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1)     
 Ahmed Shuaibi\*, **Uthsav Chitra\***, Benjamin J. Raphael       
-RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*), <ins>***Best Paper Award***</ins>.  
+In preparation.    
+<ins>***Best Paper Award***</ins> at RECOMB Satellite Workshop on Computational Cancer Biology (*RECOMB-CCB 2024*).  
 
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
@@ -120,7 +131,7 @@ Matthew A. Reyna\*, **Uthsav Chitra\***, Rebecca Elyanow, Benjamin J. Raphael
 [<span style="color:#c869bf">Analyzing the Impact of Filter Bubbles on Social Network Polarization.</span>](https://arxiv.org/abs/1906.08772)    
 **Uthsav Chitra**, Christopher Musco    
 ACM Conference on Web Search and Data Mining (*WSDM 2020*).    
-Preliminary version presented at KDD WISDOM 2019 workshop [[slides](presentations/kdd_presentation.pdf)].     
+Preliminary version presented at *KDD WISDOM 2019* workshop [[slides](presentations/kdd_presentation.pdf)].     
 
 [<span style="color:#c869bf">Random Walks on Hypergraphs with Edge-Dependent Vertex Weights.</span>](https://arxiv.org/abs/1905.08287)          
 **Uthsav Chitra**, Benjamin J. Raphael  
