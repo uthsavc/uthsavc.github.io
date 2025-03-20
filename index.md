@@ -118,24 +118,24 @@ Cong Ma\*, **Uthsav Chitra\***, Shirley Zhang, Benjamin J. Raphael
 
 [<span style="color:#c869bf">NetMix2: Unifying network propagation and altered subnetworks.</span>](https://www.biorxiv.org/content/10.1101/2022.01.31.478575v1)     
 **Uthsav Chitra\***, Tae Yoon Park\*, Benjamin J. Raphael     
-*Journal of Computational Biology* (2022). Accepted to *RECOMB 2022* [[slides](presentations/netmix2_recomb2022_pres.pdf)].
+*Journal of Computational Biology* (2022). Accepted to *RECOMB 2022* [[RECOMB slides](presentations/netmix2_recomb2022_pres.pdf)].
 
 [<span style="color:#c869bf">Quantifying and Reducing Bias in Maximum Likelihood Estimation of Structured Anomalies</span>](https://arxiv.org/abs/2007.07878)     
 **Uthsav Chitra**, Kimberly Ding, Jasper C. H. Lee, Benjamin J. Raphael  
-International Conference on Machine Learning (*ICML 2021*) [[slides](presentations/ICML_2021_pres.pdf), [ICML talk](https://slideslive.com/38958812/quantifying-and-reducing-bias-in-maximum-likelihood-estimation-of-structured-anomalies?ref=speaker-17429-latest)].    
+International Conference on Machine Learning (*ICML 2021*) [[ICML slides](presentations/ICML_2021_pres.pdf), [ICML talk](https://slideslive.com/38958812/quantifying-and-reducing-bias-in-maximum-likelihood-estimation-of-structured-anomalies?ref=speaker-17429-latest)].    
 
 [<span style="color:#c869bf">NetMix: A network-structured mixture model for reducing bias in the identification of altered subnetworks.</span>](https://www.biorxiv.org/content/10.1101/2020.01.18.911438v1)    
 Matthew A. Reyna\*, **Uthsav Chitra\***, Rebecca Elyanow, Benjamin J. Raphael   
-*Journal of Computational Biology* (2021). Accepted to *RECOMB 2020* [[slides](presentations/recomb2020_pres.pdf)].    
+*Journal of Computational Biology* (2021). Accepted to *RECOMB 2020* [[RECOMB slides](presentations/recomb2020_pres.pdf)].    
 
 [<span style="color:#c869bf">Analyzing the Impact of Filter Bubbles on Social Network Polarization.</span>](https://arxiv.org/abs/1906.08772)    
 **Uthsav Chitra**, Christopher Musco    
 ACM Conference on Web Search and Data Mining (*WSDM 2020*).    
-Preliminary version presented at *KDD WISDOM 2019* workshop [[slides](presentations/kdd_presentation.pdf)].     
+Preliminary version presented at *KDD WISDOM 2019* workshop [[KDD slides](presentations/kdd_presentation.pdf)].     
 
 [<span style="color:#c869bf">Random Walks on Hypergraphs with Edge-Dependent Vertex Weights.</span>](https://arxiv.org/abs/1905.08287)          
 **Uthsav Chitra**, Benjamin J. Raphael  
-International Conference on Machine Learning (*ICML 2019*) [[slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)]. 
+International Conference on Machine Learning (*ICML 2019*) [[ICML slides](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf), [ICML talk @ 55:27](https://slideslive.com/38917909/optimization-and-graphical-models)]. 
 
 [<span style="color:#c869bf">Committee Selection is More Similar Than You Think: Evidence from Avalanche and Stellar.</span>](https://arxiv.org/abs/1904.09839)     
 Tarun Chitra, **Uthsav Chitra**    
