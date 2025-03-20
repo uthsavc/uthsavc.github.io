@@ -102,7 +102,7 @@ In preparation.
 
 [<span style="color:#c869bf">Mapping the topography of spatial gene expression with interpretable deep learning.</span>](https://www.nature.com/articles/s41592-024-02503-3)     
 **Uthsav Chitra**, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, Benjamin J. Raphael   
-*Nature Methods* (2025). Accepted to *RECOMB 2024* [[slides](presentations/gaston_recomb2024_pres.pdf)].
+*Nature Methods* (2025). Accepted to *RECOMB 2024* [[RECOMB slides](presentations/gaston_recomb2024_pres.pdf), [MIA lightning talk](https://youtu.be/y747azUJOnI?t=2060)].
 
 [<span style="color:#c869bf">Resolving discrepancies between chimeric and multiplicative measures of higher-order epistasis.</span>](https://www.nature.com/articles/s41467-025-56986-5)     
 **Uthsav Chitra\***, Brian J. Arnold\*, Benjamin J. Raphael   
