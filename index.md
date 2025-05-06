@@ -55,7 +55,7 @@ I am broadly interested in developing statistical and machine learning methods t
 Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), and my [research statement](CS_statement_5_no_future_work.pdf) (minus the "future work" section). 
 
 
-**In Fall 2025, I will be starting as an Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). Please [contact me](mailto:uthsav.chitra@gmail.com) if you are interested in working with me!**
+**In Fall 2025, I will be starting as an Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am hiring motivated students and postdocs; please [contact me](mailto:uthsav@jhu.edu) if you are interested in working with me!**
 
 </div>
 <!-- &nbsp; -->
