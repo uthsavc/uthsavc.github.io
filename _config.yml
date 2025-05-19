@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Uthsav Chitra
 email: uchitra@broadinstitute.org
-description: Postdoc at the Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard.
+description: Incoming Assistant Professor, Johns Hopkins CS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uthsavc
