@@ -33,7 +33,7 @@ layout: home
         <a href="https://orcid.org/0000-0001-6016-0960" target="_blank">
             <i class="ai ai-orcid ai-2x"></i>
         </a>
-        <a href="mailto:uchitra@broadinstitute.org" target="_blank">
+        <a href="mailto:uthsav@jhu.edu" target="_blank">
             <i class="fa-solid fa-envelope fa-2x"></i>
         </a>
     </div>
@@ -55,7 +55,7 @@ I am broadly interested in developing statistical and machine learning methods t
 Here is [my CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), and my [research statement](CS_statement_5_no_future_work.pdf) (minus the "future work" section). 
 
 
-**In Fall 2025, I will be starting as an Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am hiring motivated students and postdocs; please [contact me](mailto:uthsav@jhu.edu) if you are interested in working with me!**
+**In Fall 2025, I will be starting as a (tenure-track) Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am hiring motivated students and postdocs; please [contact me](mailto:uthsav@jhu.edu) if you are interested in working with me!**
 
 </div>
 <!-- &nbsp; -->
