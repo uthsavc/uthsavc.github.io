@@ -14,7 +14,7 @@ layout: home
   <div class="text-column">
     {% capture text_content %}
 
-testI am currently a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
+I am currently a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
 I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu). I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/) 
 and supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). 
 
