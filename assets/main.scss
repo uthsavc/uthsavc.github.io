@@ -4,6 +4,11 @@
 @import "minima";
 @import "custom";
 
+/* Custom styles should be in _sass/custom.scss */
+
+@import "minima";
+@import "custom";
+
 // Custom styles
 body {
   font-size: 15px;
