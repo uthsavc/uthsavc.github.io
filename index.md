@@ -14,20 +14,19 @@ layout: home
   <div class="text-column">
     {% capture text_content %}
 
-I am currently a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
-I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu). I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/) 
-and supported by an [NSF Graduate Research Fellowship](https://www.cs.princeton.edu/news/computer-science-phd-students-awarded-nsf-graduate-research-fellowship) and a [Siebel Scholar award](https://www.cs.princeton.edu/news/graduate-students-receive-siebel-scholar-awards). 
+I am a (tenure-track) Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am affiliated with the [Data Science and AI Institute](https://ai.jhu.edu/) and the [Center for Computational Biology](https://ccb.jhu.edu/).
 
-**I will be a (tenure-track) Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) and the [Data Science and AI Institute](https://ai.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/) starting July 2025.** I am actively hiring motivated students and postdocs. Please see my [group website](https://chitra-lab.github.io/) for details and [email me](uthsav@jhu.edu) if you are interested in joining my group.
+My research broadly focuses on developing machine learning methods for addressing fundamental problems in biology. I am particularly interested in developing spatiotemporal and graph-based models for next-generation biological technologies. Please see my [group website](https://chitra-lab.github.io/) for details.
 
-My research broadly focuses on developing machine learning methods for addressing fundamental problems in biology. I am particularly interested in developing spatiotemporal and graph-based models for next-generation biological technologies.
-
-
+I was previously a postdoctoral fellow at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
+I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu) where I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/).
 
 
 **Relevant links:** [CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [research statement](CS_statement_5_no_future_work.pdf).
 
-**Personal:** I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/) in my free time.
+**Location:** Malone Hall, Office 329, 3400 N. Charles Street, Baltimore, MD 21218
+
+<!-- **Personal:** I like to go [<span style="color:#c869bf">bouldering</span>](http://instagram.com/uthsav_climbs/) in my free time. -->
     {% endcapture %}
     <div class="spaced-lines">
       {{ text_content | markdownify }}
@@ -39,8 +38,10 @@ My research broadly focuses on developing machine learning methods for addressin
       <img src="images/headshot5.png" alt="headshot" style="border: 0px solid black;">
       <div class="image-caption">
         <!-- <p>Postdoctoral Fellow, Broad Institute of MIT and Harvard</p> -->
-        <p>Incoming Assistant Professor of Computer Science </p>
+        <p>Assistant Professor</p>
+        <p>Department of Computer Science </p>
         <p>Johns Hopkins University</p>
+        <!-- <p>Malone Hall, 3400 N. Charles Street, Baltimore, Maryland 21218</p> -->
         <p>Email: <a href="mailto:uthsav@jhu.edu">uthsav@jhu.edu</a></p>
       </div>
       <div class="icon-container">
