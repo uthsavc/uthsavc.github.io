@@ -22,7 +22,7 @@ I was previously a postdoctoral fellow at the [Eric and Wendy Schmidt Center](ht
 I completed my PhD in Computer Science at [Princeton University](https://www.cs.princeton.edu) where I was very fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/).
 
 
-**Relevant links:** [CV](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [research statement](CS_statement_5_no_future_work.pdf).
+**Relevant links:** [CV (last updated June 13, 2026)](cv_website.pdf), [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [research statement](CS_statement_5_no_future_work.pdf).
 
 **Location:** Malone Hall, Office 329, 3400 N. Charles Street, Baltimore, MD 21218
 
